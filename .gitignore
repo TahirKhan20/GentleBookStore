@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/WebGentle.BookStore/WebGentle.BookStore/obj
+/WebGentle.BookStore/.vs/WebGentle.BookStore/v16
